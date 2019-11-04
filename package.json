@@ -16,5 +16,8 @@
   },
   "homepage": "https://github.com/BenShigeruClark/notes-app#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "validator": "^10.11.0"
+  }
 }
